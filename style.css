@@ -12,6 +12,7 @@
 }
 body{
     background: var(--black);
+    
 }
 *{
     box-sizing: border-box;
@@ -19,8 +20,7 @@ body{
     padding: 0;
     color: var(--light);
 
-    /* font-family: 'Montserrat', sans-serif; */
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 section{
