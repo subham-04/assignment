@@ -140,6 +140,7 @@ h3{
 /* second column */
 
 .column-2{
+    height: 100%;
     display: flex;
     gap: 2rem;
     flex-direction: column;
