@@ -1,3 +1,3 @@
 # assignment
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/subham-04/assignment/blob/master/assignment.png)
