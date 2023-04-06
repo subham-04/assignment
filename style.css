@@ -12,6 +12,10 @@
 }
 body{
     background: var(--black);
+    width: 95%;
+    display: flex;
+    margin: 0 auto;
+    height: 100vh;
     
 }
 *{
@@ -21,10 +25,12 @@ body{
     color: var(--light);
 
     font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Rubik', sans-serif; */
 }
 
 section{
-    height: 100vh;
+    margin: 0 auto;
+    height: 100%;
     width: 100%;
     display: grid;
     padding: 4rem 10rem;
@@ -46,6 +52,7 @@ section{
 
 .row{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     background: var(--light-bg);
     justify-content: center;
